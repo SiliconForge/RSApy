@@ -1,0 +1,4 @@
+Para abrir o numero em seus binarios
+usar bin(numero)
+usar o len(numero) para resolver o tamanho do binario
+usar um parser do tipo for i in range (3,len(numero)) para passar por todos os digitos, sendo em ordem do mais significativo para o menos significativo

@@ -1,0 +1,11 @@
+Falta: square and multiply ---->>> FEITO
+falta gerador automatico de chave ---->>> FEITO
+falta encriptador e decriptador ---->>> FEITO
+falta analisador de padding baseado em SHA256
+falta tornar as funções completamente autocontidas(sem necessidade de laços externos para rodarem) ---->>> FEITO
+otimizar e compreender o algoritmo de miller rabin, que está descartando alguns primos porém gerando corretamente grandes numeros primos
+falta interface em pyside
+falta encriptar melhor baseado em algo alem de ascii
+ler o arquivo direto em binario?
+encriptar em bloquinhos de tamanho nbits da chave
+bulk encryption e decryption
